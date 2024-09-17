@@ -19,7 +19,7 @@ const About = () => {
         </div>
        
       </div>
-      <div className='  pt-10  font-lg text-xl  text-gray-600'>
+      <div className='  pt-10  font-lg text-xl    text-gray-600'>
         <p >WHY  &nbsp;<spna className="text-gray-700 font-medium" >CHOOSE US</spna> </p>
         </div>
         <div className='flex flex-col md:flex-row mb-20'>
